@@ -4,7 +4,7 @@
 <channel>
   <atom:link href="https://feeds.buzzsprout.com/2362214.rss" rel="self" type="application/rss+xml" />
   <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
-  <title> "><u> test </u> Podcast</title>
+  <title> %3Cu%3Etest%3C%2Fu%3EPodcast</title>
   <lastBuildDate>Tue, 07 May 2024 07:04:04 -0400</lastBuildDate>
     <language>en-us</language>
   <copyright>© 2024 &quot;&gt;&lt;u&gt;uhdhdhd&lt;/u&gt;&#39;s Podcast</copyright>
@@ -13,11 +13,11 @@
     <itunes:author>&quot;&gt;&lt;u&gt;uhdhdhd&lt;/u&gt;</itunes:author>
   <itunes:type>episodic</itunes:type>
   <itunes:explicit>false</itunes:explicit>
-  <itunes:email> bbhavay85<u>op</u>7@gmail.com </itunes:email>
+  <itunes:email> bbhavay857@gmail.com </itunes:email>
   <description><![CDATA[<p>"&gt;&lt;u&gt; this is a test podcast &lt;/u&gt;</p>]]></description>
   <itunes:owner>
     <itunes:name>&quot;&gt;&lt;u&gt;uhdhdhd&lt;/u&gt;</itunes:name>
-    <itunes:email> bhavay85<u>op</u>7@gmail.com </itunes:email>
+    <itunes:email> bhavay857@gmail.com </itunes:email>
   </itunes:owner>
 </channel>
 </rss>
